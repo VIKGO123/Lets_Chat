@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "636327119422",
+    "firebase_url": "https://tietnotifyapp.firebaseio.com",
+    "project_id": "tietnotifyapp",
+    "storage_bucket": "tietnotifyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636327119422:android:061e7637dc5990a6",
+        "android_client_info": {
+          "package_name": "com.example.android.tiet_notify_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636327119422-7v7ivru6i7cpnj4t4c0b50j3oqhevh6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.tiet_notify_app",
+            "certificate_hash": "b57535ac1fa6cba1322af6c5748bb8b44a1dd840"
+          }
+        },
+        {
+          "client_id": "636327119422-vj4qeu7hgnrr29q36gof526od1293ndt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhHp1zYB5fn8Erc9Aw4EHBzgGzVr29MtA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636327119422-vj4qeu7hgnrr29q36gof526od1293ndt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
